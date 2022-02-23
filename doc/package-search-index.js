@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"fr.iutfbleau.projetIHM2020FI2.API"},{"l":"fr.iutfbleau.projetIHM2020FI2.MNP"},{"l":"fr.iutfbleau.projetIHM2020FI2.MP"},{"l":"fr.iutfbleau.projetIHM2020FI2.test"}]
